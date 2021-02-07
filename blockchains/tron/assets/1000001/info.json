@@ -1,8 +1,8 @@
 {
-    "name": "SEED",
-    "symbol": "SEED",
+    "name": "RWT",
+    "symbol": "RWT",
     "type": "TRC10",
-    "decimals": 0,
+    "decimals": 1,
     "description": "-",
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000001",
